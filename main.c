@@ -2,7 +2,8 @@
 #include <math.h>
 
 int main (void) {
+	printf("Usage: a.out");
 	printf("hello world");
 
-	return sin(3);
+	return tan(3);
 }
